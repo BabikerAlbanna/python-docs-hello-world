@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'voyager-delta-flyer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08004BF1A8AB42DE9F53BD09CEFD8BD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C2BF010C64254EE5B4F4C082694E1478 }}
